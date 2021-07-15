@@ -1,0 +1,64 @@
+.intro {
+  display: flex;
+  padding: 50px;
+  gap: 25px;
+  align-items: center;
+  background-color: blueviolet;
+  color: white;
+}
+
+.mision-vision {
+  margin: 30px 0px;
+  display: flex;
+  gap: 15px;
+}
+
+.mision {
+  flex: 1;
+  text-align: end;
+}
+
+.linea {
+  background-color: blueviolet;
+  width: 2px;
+}
+
+.vision {
+  flex: 1;
+}
+
+.valores {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 30px 0px;
+}
+
+.valores-values {
+  display: flex;
+  justify-content: space-around;
+}
+
+.tribus {
+  display: flex;
+}
+
+.tribus-titulo {
+  flex: 1;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.tribus-icons {
+  flex: 10;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.tribu {
+  margin: 50px 100px;
+  text-align: center;
+}
